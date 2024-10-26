@@ -14,13 +14,9 @@ Volume Booster boosts the volume of audio and video on webpages beyond the usual
    
 ![image](https://github.com/user-attachments/assets/899ed79e-9c39-420a-a795-825b9c79aeb7)
 
-5. To test if the volume booster is working, toggle the bar on the extension off
-
-![image](https://github.com/user-attachments/assets/8ea63592-3d47-44b6-953e-0c892ef9d3d1)
-
-6. Then go to any video or audio, like Youtube
-7. Click on the extension 'Volume Booster' in the extensions toolbar
+5. Then go to any video or audio, like Youtube
+6. Click on the extension 'Volume Booster' in the extensions toolbar
 
 ![image](https://github.com/user-attachments/assets/7801a749-940f-4bc0-941f-331401773aab)
 
-8. Change the slider to the volume boost you want
+7. Change the slider to the volume boost you want
